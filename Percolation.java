@@ -2,7 +2,7 @@ import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
-// Models an N-by-N per9colation system.
+// Models an N-by-N percolation system.
 public class Percolation {
     private int N;
     private WeightedQuickUnionUF verify;
